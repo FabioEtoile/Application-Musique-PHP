@@ -10,3 +10,6 @@ Pour cloner ce projet sur votre machine locale, exécutez la commande suivante :
 
 ```bash
 git clone https://github.com/FabioEtoile/Application-Musique-PHP.git
+
+## Auteurs
+Ce projet a été réalisé par ETOILE Fabio et LEGRELLE Basile
